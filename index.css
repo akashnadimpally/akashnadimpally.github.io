@@ -612,3 +612,16 @@ body:not(.user-is-tabbing) a:focus {
         padding: var(--gutter-medium) 0;
     } 
 }
+
+.work__list2 {
+    /* list-style-type: square; */
+    list-style-position: inside;
+    margin-bottom: var(--gutter-normal);
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
+
+.work__text2 {
+    flex: 0 0 30%;
+    white-space: nowrap;
+}
